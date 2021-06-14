@@ -1,4 +1,4 @@
-# chat-app-react
+# practice-chatApp-react
 
 A basic chat app made using react and scaledrone.
 
